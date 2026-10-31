@@ -1,0 +1,3 @@
+com\enterprise\identityauditor\AuthServiceTest.class
+com\enterprise\identityauditor\PrivilegeCreepServiceTest.class
+com\enterprise\identityauditor\UserServiceTest.class
